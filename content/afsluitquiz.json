@@ -44,7 +44,7 @@
   {
     "id": "quiz_mc_4",
     "title": "Hoofdstuk 4: Leren Prompten",
-    "text": "Waarom is het effectief om een AI een specifieke rol te geven in je prompt (bijv. 'Gedraag je als een expert-docent fysiotherapie')?",
+    "text": "Waarom is het effectief om een AI een specifieke rol te geven in je prompt (bijv. 'Gedraag je als een expert-docent logopedie')?",
     "options": [
       "Het maakt de AI sneller en efficiënter.",
       "Het activeert specifieke kennisdomeinen in het AI-model voor meer gerichte antwoorden.",
@@ -128,9 +128,9 @@
   {
     "id": "quiz_mc_10",
     "title": "Hoofdstuk 6: Kansen & Risico's",
-    "text": "Het risico van 'deskilling' of 'cognitive offloading' wordt besproken. Wat houdt dit risico in voor een fysiotherapeut?",
+    "text": "Het risico van 'deskilling' of 'cognitive offloading' wordt besproken. Wat houdt dit risico in voor een logopedist?",
     "options": [
-      "Dat AI-implementatie te kostbaar wordt voor kleinere fysiotherapiepraktijken.",
+      "Dat AI-implementatie te kostbaar wordt voor kleinere logopediepraktijken.",
       "Dat je eigen klinische redeneervaardigheden kunnen afnemen door overmatige AI-afhankelijkheid.",
       "Dat professionele ontwikkeling overbodig wordt omdat AI alle expertise levert.",
       "Dat AI-systemen onvoldoende accuraat zijn voor complexe klinische besluitvorming."
@@ -142,11 +142,11 @@
   {
     "id": "quiz_mc_11",
     "title": "Hoofdstuk 1: De Basis",
-    "text": "Wat is, volgens de introductie, een van de belangrijkste redenen waarom AI-geletterdheid essentieel is voor jou als toekomstig fysiotherapeut?",
+    "text": "Wat is, volgens de introductie, een van de belangrijkste redenen waarom AI-geletterdheid essentieel is voor jou als toekomstig logopedist?",
     "options": [
       "Om zelf complexe AI-algoritmes en machine learning modellen te kunnen ontwikkelen.",
       "Om efficiënter te werken en meer tijd te hebben voor patiëntcontact.",
-      "Omdat deze vaardigheden verplicht zijn gesteld door de beroepsvereniging voor fysiotherapeuten.",
+      "Omdat deze vaardigheden verplicht zijn gesteld door de beroepsvereniging voor logopedisten.",
       "Om alle administratieve en diagnostische processen volledig te automatiseren."
     ],
     "correctAnswer": 1,
@@ -212,10 +212,10 @@
   {
     "id": "quiz_mc_16",
     "title": "Hoofdstuk 6: Kansen & Risico's",
-    "text": "Stel, je gebruikt als fysiotherapeut een AI-assistent om een behandelplan op te stellen. Door een fout in het AI-advies loopt een patiënt letsel op. Wie is er wettelijk en ethisch eindverantwoordelijk?",
+    "text": "Stel, je gebruikt als logopedist een AI-assistent om een behandelplan op te stellen. Door een fout in het AI-advies loopt een patiënt letsel op. Wie is er wettelijk en ethisch eindverantwoordelijk?",
     "options": [
       "De softwareontwikkelaar die het AI-algoritme heeft geprogrammeerd.",
-      "De fysiotherapeut die het advies heeft toegepast in de zorg.",
+      "De logopedist die het advies heeft toegepast in de zorg.",
       "De zorginstelling waar de therapeut werkzaam is en het systeem heeft geïmplementeerd.",
       "Niemand, omdat het een onvoorziene fout in de AI-technologie betrof."
     ],
@@ -240,7 +240,7 @@
   {
     "id": "quiz_mc_18",
     "title": "Hoofdstuk 6: Kansen & Risico's",
-    "text": "Hoe kan een fysiotherapeut AI op een praktische manier inzetten om meer patiëntgerichte zorg te leveren?",
+    "text": "Hoe kan een logopedist AI op een praktische manier inzetten om meer patiëntgerichte zorg te leveren?",
     "options": [
       "Door patiënten zelfstandig te laten diagnosticeren via AI-chatbots.",
       "Door administratieve taken te automatiseren, waardoor meer tijd vrijkomt voor patiëntcontact.",

@@ -135,7 +135,7 @@
     {
       "type": "resource-grid-container",
       "items": [
-        { "titel": "FysioAI LeerToolbox", "beschrijving": "De FysioAI LeerToolbox is een verzameling AI-tools speciaal ontwikkeld en geselecteerd voor fysiotherapiestudenten van de HAN. De tools helpen je effectiever te leren: je leert met behulp van AI, of gebruikt leermiddelen die door AI zijn ondersteund. Gebruik de filters om snel die tools te vinden die passen bij jouw leerdoelen en leerbehoeften.", "link": "https://ai-tools-phi-one.vercel.app" },
+        { "titel": "AI-toolbox (extern)", "beschrijving": "Gebruik een actuele AI-toolcatalogus om tools te vinden voor jouw leerdoelen. Filter op categorieën zoals spraak naar tekst, kennisleren of presentatie. Let op: deel geen herleidbare patiëntdata.", "link": "https://theresanaiforthat.com" },
         { "titel": "There's An AI For That", "beschrijving": "Een zeer uitgebreide database met AI-tools voor vrijwel elke denkbare taak. Het is een uitstekende bron om nieuwe en gespecialiseerde AI-toepassingen te ontdekken.", "link": "https://theresanaiforthat.com" }
       ]
     },

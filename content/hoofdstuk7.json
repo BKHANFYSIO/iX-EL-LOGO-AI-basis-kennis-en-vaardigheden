@@ -4,7 +4,7 @@
       "type": "info-card",
       "classes": "welcome-card",
       "titel": "De Toekomst van AI: Jouw Rol in een Veranderende Wereld",
-      "tekst": "Nu je de basis van AI begrijpt, is het tijd voor de grote vraag: wat betekent dit voor jouw toekomst? AI ontwikkelt zich snel en verandert hoe we werken. Banen veranderen, nieuwe ontstaan, en je carrière als fysiotherapeut zal anders zijn dan die van je voorgangers. In dit hoofdstuk bereid je je voor op die toekomst."
+      "tekst": "Nu je de basis van AI begrijpt, is het tijd voor de grote vraag: wat betekent dit voor jouw toekomst? AI ontwikkelt zich snel en verandert hoe we werken. Banen veranderen, nieuwe ontstaan, en je carrière als logopedist zal anders zijn dan die van je voorgangers. In dit hoofdstuk bereid je je voor op die toekomst."
     },
     {
       "type": "accordion",
@@ -21,7 +21,7 @@
             {
               "id": "h7_audio_1",
               "titel": "Podcast: AI in de toekomst",
-              "beschrijving": "Een audio-versie van de inhoud van dit hoofdstuk. Ontdek hoe AI de toekomst van de fysiotherapie en de maatschappij zal vormgeven.",
+              "beschrijving": "Een audio-versie van de inhoud van dit hoofdstuk. Ontdek hoe AI de toekomst van de logopedie en de maatschappij zal vormgeven.",
               "bron": "audio/H7-AI-in-de-toekomst-podcast.wav",
               "meta": ""
             }
@@ -87,28 +87,28 @@
           "titel": "Narrow AI (Smal)",
           "nederlands": "Huidige AI: gespecialiseerd in één taak",
           "uitleg": "Dit is de AI die we vandaag de dag veel zien: systemen die uitblinken in specifieke taken, zoals gezichtsherkenning, schaken, of het genereren van tekst en afbeeldingen. Ze kunnen echter niet buiten hun specifieke domein denken of handelen.",
-          "voorbeeld": "ChatGPT, AlphaGo, of een AI die bewegingsanalyses uitvoert in de fysiotherapie."
+          "voorbeeld": "ChatGPT, AlphaGo, of een AI die spraakanalyses uitvoert in de logopedie."
         },
         {
           "titel": "AI Agents",
           "nederlands": "Autonome AI-assistenten",
           "uitleg": "Een AI Agent is een Narrow AI die zelfstandig doelen kan formuleren en acties kan ondernemen om deze te bereiken, vaak over een langere periode. Ze kunnen meerdere tools gebruiken en beslissingen nemen zonder continue menselijke input.",
-          "voorbeeld": "Een AI die zelfstandig onderzoek doet naar de nieuwste fysiotherapie technieken en een rapportage opstelt, of een die afspraken voor de praktijk plant en patiënten informeert.",
+          "voorbeeld": "Een AI die zelfstandig onderzoek doet naar de nieuwste logopedische interventies en een rapportage opstelt, of een die afspraken voor de praktijk plant en patiënten informeert.",
           "denkvraag": "Zou een AI-agent de administratie van mijn praktijk volledig kunnen overnemen, inclusief de communicatie met verzekeraars, en hoe controleer ik dat?"
         },
         {
           "titel": "Artificial General Intelligence (AGI)",
           "nederlands": "Menselijke intelligentie en meer",
           "uitleg": "AGI is een hypothetische AI die net zo breed kan denken als een mens over alle mogelijke taken. Het kan leren, redeneren en zich aanpassen aan nieuwe situaties.",
-          "voorbeeld": "Een AGI die een complex fysiotherapeutisch probleem holistisch benadert, diagnoses stelt en behandelplannen opstelt met menselijke precisie en creativiteit.",
-          "denkvraag": "Als AGI even goed diagnoses kan stellen als ik, wat maakt mij dan nog uniek als fysiotherapeut?"
+          "voorbeeld": "Een AGI die een complex logopedisch probleem holistisch benadert, diagnoses stelt en behandelplannen opstelt met menselijke precisie en creativiteit.",
+          "denkvraag": "Als AGI even goed diagnostiek kan doen als ik, wat maakt mij dan nog uniek als logopedist?"
         },
         {
           "titel": "Artificial Super Intelligence (ASI)",
           "nederlands": "Intelligentie die de mens ver overstijgt",
           "uitleg": "ASI is een hypothetische AI die mensen in alle denkbare gebieden ver overtreft. Dit zou een enorme technologische sprong zijn met potentieel voor grote vooruitgang, maar ook voor nieuwe risico's.",
           "voorbeeld": "Een ASI die in seconden een genezing voor chronische pijn vindt, of die alle complexe gezondheidsvraagstukken wereldwijd kan optimaliseren.",
-          "denkvraag": "Hoe zou de fysiotherapie veranderen als ASI complexe medische problemen kan oplossen?"
+          "denkvraag": "Hoe zou de logopedie veranderen als ASI complexe medische problemen kan oplossen?"
         }
       ]
     },
@@ -117,11 +117,11 @@
     },
     {
       "type": "section-title",
-      "titel": "AI in de Fysiotherapie: Toekomstige Praktijk"
+      "titel": "AI in de Logopedie: Toekomstige Praktijk"
     },
     {
       "type": "content-text",
-      "tekst": "Hoe zal AI de fysiotherapiepraktijk transformeren? Van de eerste patiëntcontacten tot gepersonaliseerde behandelplannen, AI biedt tools die jouw werk efficiënter, nauwkeuriger en effectiever kunnen maken. Bereid je voor op een werkomgeving waarin mens en machine steeds nauwer samenwerken."
+      "tekst": "Hoe zal AI de logopediepraktijk transformeren? Van de eerste patiëntcontacten tot gepersonaliseerde behandelplannen, AI biedt tools die jouw werk efficiënter, nauwkeuriger en effectiever kunnen maken. Bereid je voor op een werkomgeving waarin mens en machine steeds nauwer samenwerken."
     },
     {
       "type": "content-subtitle",
@@ -139,7 +139,7 @@
           "beschrijving": "Een patiënt heeft 's avonds laat acute nekpijn en twijfelt over een huisartsbezoek.",
           "punten": [
             "Traditioneel: Patiënt zoekt online, belt misschien de huisartsenpost, of wacht tot de volgende dag.",
-            "Met Triage-bot: Patiënt opent de praktijkapp, beschrijft klachten aan de AI-bot. De bot stelt gerichte vragen, adviseert op basis van antwoorden een afspraak bij de fysiotherapeut de volgende ochtend, of in acute gevallen direct contact met de huisartsenpost. Dit vermindert onnodige spoedbezoeken en versnelt toegang tot de juiste zorg."
+            "Met Triage-bot: Patiënt opent de praktijkapp, beschrijft klachten aan de AI-bot. De bot stelt gerichte vragen, adviseert op basis van antwoorden een afspraak bij de logopedist de volgende ochtend, of in acute gevallen direct contact met de huisartsenpost. Dit vermindert onnodige spoedbezoeken en versnelt toegang tot de juiste zorg."
           ]
         }
       ]
@@ -180,7 +180,7 @@
       "type": "accent-blok",
       "variant": "default",
       "titel": "Denkvraag:",
-      "tekst": "Hoe verhoudt de potentiële gezondheidswinst door AI zich tot de ecologische impact van de benodigde energie? Is dit een acceptabele trade-off en welke rol kun jij hierin spelen als fysiotherapeut?"
+      "tekst": "Hoe verhoudt de potentiële gezondheidswinst door AI zich tot de ecologische impact van de benodigde energie? Is dit een acceptabele trade-off en welke rol kun jij hierin spelen als logopedist?"
     },
     {
       "type": "divider"
@@ -244,14 +244,14 @@
       "type": "accent-blok",
       "variant": "default",
       "titel": "Denkvraag:",
-      "tekst": "Als AI een groot deel van het routinewerk overneemt, hoe vind je dan jouw 'zingeving' in je beroep en daarbuiten? Moet je als fysiotherapeut meer investeren in unieke menselijke vaardigheden dan in technische kennis?"
+      "tekst": "Als AI een groot deel van het routinewerk overneemt, hoe vind je dan jouw 'zingeving' in je beroep en daarbuiten? Moet je als logopedist meer investeren in unieke menselijke vaardigheden dan in technische kennis?"
     },
     {
       "type": "divider"
     },
     {
       "type": "section-title",
-      "titel": "Jouw Rol als Fysiotherapeut in een AI-Toekomst"
+      "titel": "Jouw Rol als Logopedist in een AI-Toekomst"
     },
     {
       "type": "content-text",
@@ -259,12 +259,12 @@
     },
     {
       "type": "competency-grid",
-      "titel": "Essentiële Competenties voor de Fysiotherapeut van de Toekomst",
+      "titel": "Essentiële Competenties voor de Logopedist van de Toekomst",
       "intro": "Om optimaal te kunnen functioneren in een wereld waarin AI een integraal onderdeel wordt van de gezondheidszorg, zijn de volgende competenties van cruciaal belang:",
       "termen": [
         {
           "term": "AI-geletterdheid",
-          "uitleg": "Begrijpen hoe AI-systemen werken, wat hun mogelijkheden en beperkingen zijn, en hoe ze veilig kunnen worden toegepast in de fysiotherapie.",
+          "uitleg": "Begrijpen hoe AI-systemen werken, wat hun mogelijkheden en beperkingen zijn, en hoe ze veilig kunnen worden toegepast in de logopedie.",
           "praktisch": "Je kunt de resultaten van een AI-gestuurde bewegingsanalyse interpreteren en de betrouwbaarheid ervan inschatten."
         },
         {
@@ -310,7 +310,7 @@
           "titel": "De keuzes die we nu maken bepalen onze AI-toekomst",
           "paragrafen": [
             "In dit gesprek bij Eva Jinek wordt de cruciale vraag gesteld: zal AI ons helpen of schaden? Het antwoord hangt af van de keuzes die we vandaag maken. De video belicht hoe de ontwikkeling en implementatie van kunstmatige intelligentie onze maatschappij fundamenteel kan veranderen.",
-            "Voor jou als aanstaande fysiotherapeut is dit extra relevant. De keuzes die nu gemaakt worden over AI-regulatie, privacy en ethiek bepalen hoe AI-tools in de gezondheidszorg zullen worden ingezet. Begrijp je rol in deze discussie en denk mee over hoe we AI verantwoord kunnen inzetten in jouw toekomstige beroep."
+            "Voor jou als aanstaande logopedist is dit extra relevant. De keuzes die nu gemaakt worden over AI-regulatie, privacy en ethiek bepalen hoe AI-tools in de gezondheidszorg zullen worden ingezet. Begrijp je rol in deze discussie en denk mee over hoe we AI verantwoord kunnen inzetten in jouw toekomstige beroep."
           ]
         }
       },
@@ -324,10 +324,10 @@
           "titel": "Hoe AI de arbeidsmarkt zal veranderen | VPRO Tegenlicht"
         },
         "tekst_content": {
-          "titel": "Jouw toekomst als fysiotherapeut",
+          "titel": "Jouw toekomst als logopedist",
           "paragrafen": [
             "Deze diepgaande VPRO Tegenlicht documentaire van 45 minuten analyseert de impact van kunstmatige intelligentie op de arbeidsmarkt en de veranderingen die dit teweegbrengt in verschillende sectoren, waaronder de gezondheidszorg.",
-            "Voor jou als aanstaande fysiotherapeut is het belangrijk om te begrijpen hoe AI jouw werkveld zal transformeren. Welke taken zul je kunnen delegeren aan AI? Welke uniek menselijke vaardigheden worden juist belangrijker? Deze video helpt je voorbereiden op de veranderingen die eraan komen."
+            "Voor jou als aanstaande logopedist is het belangrijk om te begrijpen hoe AI jouw werkveld zal transformeren. Welke taken zul je kunnen delegeren aan AI? Welke uniek menselijke vaardigheden worden juist belangrijker? Deze video helpt je voorbereiden op de veranderingen die eraan komen."
           ]
         }
       },
@@ -340,7 +340,7 @@
     },
     {
       "type": "content-text",
-      "tekst": "Gefeliciteerd! Je hebt een hele reis gemaakt: van de vraag 'Wat is AI eigenlijk?' tot het begrijpen van kansen, risico's en je toekomst als fysiotherapeut. Je weet nu hoe je AI slim kunt inzetten voor je studie en later je beroep, en - nog belangrijker - hoe je dit veilig en bewust doet.\n\nJe generatie groeit op met AI als natuurlijk onderdeel van het leven. Dat maakt jullie uniek: je kunt de voordelen benutten zonder de valkuilen te negeren. Als toekomstige fysiotherapeut sta je aan de start van een spannende carrière waarin technologie en menselijkheid hand in hand gaan.\n\nKlaar voor de eindspurt? Ga naar het afsluitende hoofdstuk om je kennis te toetsen en je certificaat te behalen!"
+      "tekst": "Gefeliciteerd! Je hebt een hele reis gemaakt: van de vraag 'Wat is AI eigenlijk?' tot het begrijpen van kansen, risico's en je toekomst als logopedist. Je weet nu hoe je AI slim kunt inzetten voor je studie en later je beroep, en - nog belangrijker - hoe je dit veilig en bewust doet.\n\nJe generatie groeit op met AI als natuurlijk onderdeel van het leven. Dat maakt jullie uniek: je kunt de voordelen benutten zonder de valkuilen te negeren. Als toekomstige logopedist sta je aan de start van een spannende carrière waarin technologie en menselijkheid hand in hand gaan.\n\nKlaar voor de eindspurt? Ga naar het afsluitende hoofdstuk om je kennis te toetsen en je certificaat te behalen!"
     }
   ],
   "interacties": [
@@ -353,7 +353,7 @@
     {
       "id": "h7_reflection_final",
       "type": "reflection",
-      "vraag": "Kijk terug naar je antwoord op de allereerste reflectievraag in Hoofdstuk 1. Wat is het belangrijkste inzicht dat je in deze e-learning hebt opgedaan? En op welk gebied wil jij je na deze module verder ontwikkelen? Denk bijvoorbeeld aan beter leren prompten, AI inzetten om slimmer te studeren, bewuster omgaan met de risico's, of misschien zelfs experimenteren met 'vibe-coding'. Licht je keuze kort toe.",
+      "vraag": "Kijk terug naar je antwoord op de allereerste reflectievraag in Hoofdstuk 1. Wat is het belangrijkste inzicht dat je in deze e-learning hebt opgedaan? En op welk gebied wil jij je na deze e-learning verder ontwikkelen? Denk bijvoorbeeld aan beter leren prompten, AI inzetten om slimmer te studeren, bewuster omgaan met de risico's, of misschien zelfs experimenteren met 'vibe-coding'. Licht je keuze kort toe.",
       "placeholder": "Beschrijf hier je belangrijkste inzicht en je volgende ontwikkelstap..."
     }
   ]

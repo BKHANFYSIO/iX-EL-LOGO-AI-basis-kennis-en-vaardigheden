@@ -109,10 +109,10 @@
         },
         { 
           "src": "images/oefenzaal.png", 
-          "alt": "Een realistische afbeelding van een fysiotherapie oefenzaal.", 
+          "alt": "Een realistische afbeelding van een oefenruimte.", 
           "onderschrift": "Voorbeeld van een realistische afbeelding voor een praktijkfolder",
           "bron": {
-            "naam": "Afbeelding gegenereerd door Koekoek, B. (2025) met de prompt \"maak een realistische afbeelding van een fysiotherapeut die in een praktijk ruimte een patient een squat oefening aanleert\" via Google, Gemini (https://gemini.google.com)."
+            "naam": "Afbeelding gegenereerd door Koekoek, B. (2025) met de prompt \"maak een realistische afbeelding van een therapeut die in een praktijkruimte een patiënt een oefening aanleert\" via Google, Gemini (https://gemini.google.com)."
           }
         }
       ]
@@ -141,8 +141,8 @@
           "link": "https://youtu.be/mCFMn0UkRt0?si=Dp2wRH6AVAopYrWi"
         },
         {
-          "titel": "Fysiotherapie onderwijsvideo (Koekoek, 2025)",
-          "beschrijving": "AI-gegenereerde video door Koekoek, B. (2025) met de prompt \"Maak een video waarin een docent fysiotherapie op de bank zittend uitleg geeft in de richting van de camera. Op de achtergrond zie je enkele studenten aan het oefenen. Het vind plaats in een praktijklokaal voor fysiotherapie onderwijs waar meerdere behandeltafels staan\" via Google, VEO 2 (https://aistudio.google.com).",
+          "titel": "Onderwijsvideo (Koekoek, 2025)",
+          "beschrijving": "AI-gegenereerde video door Koekoek, B. (2025) met de prompt \"Maak een video waarin een docent in een praktijklokaal zittend uitleg geeft in de richting van de camera. Op de achtergrond zie je enkele studenten aan het oefenen.\" via Google, VEO 2 (https://aistudio.google.com).",
           "bron": "Koekoek, B. (2025)",
           "duur": "-",
           "link": "https://youtu.be/nyMsubctoLc"
@@ -214,7 +214,7 @@
             ],
             [
               "<b>Flashcard Tool voor Studie</b>",
-              "Tool om flashcards te oefenen. Ideaal voor begrippen en principes.<br><br><b>Tip:</b> Upload eerst een document en vraag AI om daarop gebaseerde flashcards te maken.<br><br><b>Let op:</b> Controleer de flashcards altijd - AI kan fouten maken.<br><br><b>Prompt:</b><em>Maak een flashcard-app over trainingsleerprincipes voor fysiotherapie: 'Overload', 'Specificiteit', 'Reversibiliteit', 'Individualiteit', en 'Periodisering'. De voorkant toont de term, de achterkant de uitleg. Ik moet door de kaarten kunnen klikken.</em>"
+              "Tool om flashcards te oefenen. Ideaal voor begrippen en principes.<br><br><b>Tip:</b> Upload eerst een document en vraag AI om daarop gebaseerde flashcards te maken.<br><br><b>Let op:</b> Controleer de flashcards altijd - AI kan fouten maken.<br><br><b>Prompt:</b><em>Maak een flashcard-app over logopedische basisprincipes: 'Articulatie', 'Taalbegrip', 'Spraakvloeiendheid', 'Stemhygiëne' en 'Slikfasen'. De voorkant toont de term, de achterkant de uitleg. Ik moet door de kaarten kunnen klikken.</em>"
             ],
             [
               "<b>Patiënten-info App: Enkelletsel</b>",
@@ -255,12 +255,12 @@
               "beschrijving": "Maak een assistent die wetenschappelijke artikelen altijd in jouw favoriete format samenvat. Geef hem een paar goede voorbeelden en instructies over de gewenste stijl, lengte en structuur (bijv. 'maak altijd een conclusie van maximaal 50 woorden'). Upload vervolgens een artikel en vraag om een samenvatting."
           },
           {
-              "titel": "Fysio-Casus Generator",
-              "beschrijving": "Bouw een assistent die realistische patiëntcasussen genereert om mee te oefenen. Voed hem met KNGF-richtlijnen en voorbeelden van goede casuïstiek. Vervolgens kun je vragen om 'een casus over een 45-jarige man met lage rugpijn na het tillen' en de AI creëert een scenario inclusief rode vlaggen om te beoordelen."
+              "titel": "Logopedie-Casus Generator",
+              "beschrijving": "Bouw een assistent die realistische patiëntcasussen genereert om mee te oefenen. Voed hem met NVLF-richtlijnen en voorbeelden van goede casuïstiek. Vervolgens kun je vragen om 'een casus over een 6-jarig kind met articulatieproblemen' en de AI creëert een scenario inclusief observatiepunten om te beoordelen."
           },
           {
             "titel": "Ontdek Meer in de Toolbox",
-            "beschrijving": "In de <b>FysioAI LeerToolbox</b> vind je al veel door docenten gemaakte AI-assistenten (GPT's) die je kunt gebruiken voor je studie. <b>Tip:</b> Filter op 'GPT's' om ze te vinden en doe inspiratie op voor je eigen creaties!"
+            "beschrijving": "Je kunt in diverse AI-toolboxen en gedeelde bibliotheken AI-assistenten (GPT's) vinden die je kunt gebruiken voor je studie. <b>Tip:</b> Filter op 'GPT's' om ze te vinden en doe inspiratie op voor je eigen creaties!"
         }
       ]
     },
@@ -271,7 +271,7 @@
     },
     {
       "type": "content-text",
-      "tekst": "In dit hoofdstuk heb je gezien hoe je met AI zelf creatieve content en zelfs complete applicaties kunt bouwen. Ook wij als opleiding experimenteren volop met tools die door AI geschreven zijn, waarbij we altijd kiezen voor 'Human in the Lead'. Dat betekent dat wij als docenten de eindcontrole houden en zorgen dat de inhoud en functionaliteit aansluiten bij wat jij voor je studie nodig hebt.<br><br>Nu is het aan jou! We nodigen je van harte uit om zelf te gaan experimenteren. Ontdek bijvoorbeeld de tools in de <b>FysioAI LeerToolbox</b> of probeer de prompts uit de tabel hierboven."
+      "tekst": "In dit hoofdstuk heb je gezien hoe je met AI zelf creatieve content en zelfs complete applicaties kunt bouwen. Ook wij als opleiding experimenteren volop met tools die door AI geschreven zijn, waarbij we altijd kiezen voor 'Human in the Lead'. Dat betekent dat wij als docenten de eindcontrole houden en zorgen dat de inhoud en functionaliteit aansluiten bij wat jij voor je studie nodig hebt.<br><br>Nu is het aan jou! We nodigen je van harte uit om zelf te gaan experimenteren. Probeer de prompts uit de tabel hierboven."
     },
     {
       "type": "info-card",
@@ -325,7 +325,7 @@
     {
       "id": "h5_reflection_1",
       "type": "reflection",
-      "vraag": "Na het lezen van dit hoofdstuk: welke creatieve AI-toepassing (beeld-AI, vibe-coding, of geavanceerd GPT-gebruik) spreekt jou het meest aan voor jouw studie of toekomstige werk als fysiotherapeut? Leg uit waarom en geef een concreet voorbeeld van hoe je deze toepassing zou willen gebruiken.",
+      "vraag": "Na het lezen van dit hoofdstuk: welke creatieve AI-toepassing (beeld-AI, vibe-coding, of geavanceerd GPT-gebruik) spreekt jou het meest aan voor jouw studie of toekomstige werk als logopedist? Leg uit waarom en geef een concreet voorbeeld van hoe je deze toepassing zou willen gebruiken.",
       "placeholder": "Beschrijf welke AI-toepassing je het meest aanspreekt en hoe je deze praktisch zou willen inzetten..."
     }
   ]
